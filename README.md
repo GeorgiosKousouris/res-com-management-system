@@ -1,2 +1,2 @@
 # res-com-management-system
-A management system in C 
+A management system created in C. 
